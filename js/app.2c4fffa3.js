@@ -311,7 +311,7 @@
         e("f240")
     }, b4da: function (t, s, e) {
     }, cf05: function (t, s, e) {
-        t.exports = e.p + "img/logo.82b9c7a5.png"
+        t.exports = "." +  e.p + "img/logo.82b9c7a5.png"
     }, f240: function (t, s, e) {
     }
 });
